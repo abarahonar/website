@@ -1,0 +1,26 @@
+---
+import '../styles/global.css';
+import Navbar from '../components/Navbar.astro';
+import Footer from '../components/Footer.astro';
+import BlogCard from '../components/BlogCard.astro';
+import Head from '../components/Head.astro';
+
+const { frontmatter } = Astro.props;
+---
+<!doctype html>
+<html lang="en-US">
+  <Head title={frontmatter.title} />
+  <body>
+    <Navbar />
+    <main>
+      <BlogCard title={frontmatter.title}
+                author={frontmatter.author}
+		description={frontmatter.description}
+		date={frontmatter.date}/>
+      <article>
+        <slot />
+      </article>
+    </main>
+    <Footer />
+  </body>
+</html>

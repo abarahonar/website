@@ -1,0 +1,16 @@
+---
+layout: ../../layouts/BlogPostLayout.astro
+title: 'Sample post'
+author: 'Alan Barahona Ruiz'
+description: This is a post that will be filled in the future, please understand blah blah blah blah blah
+date: 18 Oct 2026
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla elementum ornare nisi, non vulputate turpis feugiat at. Nulla gravida semper sapien iaculis lobortis. Donec aliquet a dolor a dapibus. Integer ultricies nisi dui, vitae finibus lectus ullamcorper lobortis. Morbi sit amet tristique enim. Vivamus pharetra, nisl ut tincidunt aliquet, mauris magna dapibus erat, in dapibus quam tortor at justo. Curabitur porta vehicula dictum. Integer ac ex vehicula, rutrum sapien eget, fermentum turpis. Maecenas eget nunc quis nisl viverra varius. Mauris elementum malesuada enim id consectetur.
+
+Maecenas mollis laoreet enim, eget ornare lorem mollis aliquet. Integer euismod massa ut fermentum volutpat. Nulla gravida, lorem non gravida maximus, massa quam dapibus tellus, in sollicitudin orci lectus vitae neque. Quisque sed lorem ipsum. Nunc egestas at diam gravida pretium. Fusce a neque porta, pulvinar dolor vel, dictum augue. Etiam vitae sapien quis lacus laoreet malesuada at ut dolor. Cras tincidunt quam lectus, ut posuere enim pharetra in. Maecenas semper libero nec iaculis pretium. Donec quis ullamcorper dolor, id fringilla risus.
+
+Donec volutpat mollis ligula. Quisque dapibus commodo ligula, et rutrum est aliquam sit amet. Donec vehicula maximus ante ac ultricies. Fusce venenatis, nisi eu suscipit facilisis, augue justo dapibus justo, suscipit pretium quam ante nec diam. Integer libero risus, lacinia non massa sit amet, fringilla placerat mauris. Maecenas accumsan erat ex. Vestibulum a scelerisque neque, feugiat convallis libero. Curabitur dui quam, pulvinar eu consequat non, placerat in augue. Quisque et lacinia enim. Ut venenatis nisi lobortis, auctor mi non, eleifend dolor. Ut placerat rutrum dui vitae ullamcorper. Sed interdum arcu mauris, sed pulvinar lacus aliquam vitae. Donec scelerisque sem non nulla ultricies, in consectetur arcu semper.
+
+Morbi vel augue erat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In vitae ex in tellus porta tincidunt vel a mi. Vivamus eleifend mollis tellus. Fusce condimentum risus in elementum tincidunt. Fusce porttitor venenatis neque a lobortis. Curabitur ligula arcu, viverra quis elementum a, pretium non dui. Praesent posuere lacus augue, condimentum aliquam lacus aliquam vel. Nunc porttitor magna nisi, non dignissim mauris laoreet ut. Morbi massa ipsum, tincidunt eget facilisis vitae, sagittis sed arcu. Curabitur scelerisque semper lacus ut placerat. Duis quis leo nisl. In id auctor orci.
+
+Pellentesque facilisis vitae nulla nec tincidunt. Integer tortor nisi, maximus quis venenatis in, malesuada quis est. Nam pharetra laoreet metus. Sed sollicitudin orci quis lacus egestas, non placerat massa sagittis. In tincidunt malesuada mollis. Proin eu pulvinar risus. Suspendisse in vehicula libero. Pellentesque placerat ultricies mauris, in volutpat massa fermentum eleifend. Nullam tincidunt urna quis lacinia posuere. Sed mauris eros, vestibulum vitae nisi suscipit, aliquam blandit magna. Sed dapibus cursus scelerisque. Donec pulvinar pellentesque sem in cursus. Pellentesque in scelerisque nibh. 

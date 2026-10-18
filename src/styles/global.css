@@ -1,43 +1,48 @@
 :root {
-    --main-bg-color: #fafafa;
-    --main-color: #2a2a2a;
-    --main-accent-color: #d64161;
+  --main-bg-color: #fafafa;
+  --main-color: #2a2a2a;
+  --main-accent-color: #d64161;
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2em;
-    color: var(--main-color);
-    background-color: var(--main-bg-color);
-    width: 50%;
-    margin: 0 auto;
-    padding: 5em 0 1em 0;
-    box-sizing: border-box;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.2em;
+  color: var(--main-color);
+  background-color: var(--main-bg-color);
+  width: 50%;
+  margin: 0 auto;
+  padding: 5em 0 1em 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 main {
-    flex: 1;
+  margin-top: 1em;
+  flex: 1;
 }
 
 header {
-    display: block;
+  display: block;
 }
 
 a {
-    color: var(--main-accent-color);
-    font-weight: bold;
-    text-decoration: none !important;
+  color: var(--main-accent-color);
+  font-weight: bold;
+  text-decoration: none !important;
 }
 
 hr {
-    border: none;
-    border-top: 1px solid var(--main-accent-color);
-    margin: 2rem 0;
+  border: none;
+  border-top: 1px solid var(--main-accent-color);
+  margin: 2rem 0;
+}
+
+h1 {
+  font-size: 1.5em;
 }
 
 h2 {
-    font-size: 1.25em;
+  font-size: 1.25em;
 }

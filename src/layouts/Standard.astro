@@ -2,17 +2,13 @@
 import '../styles/global.css';
 import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
+import Head from '../components/Head.astro';
+
 const { title } = Astro.props;
 ---
-
 <!doctype html>
 <html lang="en-US">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" type="image/x-icon" href="/favicon.svg">
-    <title>{title}</title>
-  </head>
+  <Head title={title} />
   <body>
     <Navbar />
     <main>

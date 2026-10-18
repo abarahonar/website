@@ -1,0 +1,29 @@
+---
+const { title, author, description, date } = Astro.props;
+---
+<h1>{title}</h1>
+<div class="subtitle">
+  <p class="author">by: {author}</p>
+  <p class=timestamp>{date}</p>
+</div>
+<p class="description">{description}</p>
+<hr />
+<style>
+  h1 {
+    margin-bottom: 0;
+  }
+
+  .subtitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+  }
+
+  p.author, p.timestamp {
+    margin-top: 0;
+  }
+
+  p.description {
+    font-style: italic;
+  }
+</style>
