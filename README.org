@@ -1,4 +1,0 @@
-#+TITLE: Alan's website
-#+AUTHOR: Alan Barahona Ruiz
-
-Website source code

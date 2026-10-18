@@ -26,23 +26,6 @@ header {
     display: block;
 }
 
-nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.navbar-title {
-    margin: 0;
-    font-weight: bold;
-    font-size: 1.25em;
-}
-
-footer {
-    text-align: center;
-    font-size: 0.8em;
-}
-
 a {
     color: var(--main-accent-color);
     font-weight: bold;
