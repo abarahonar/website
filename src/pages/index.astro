@@ -5,7 +5,7 @@ import StandardLayout from '../layouts/Standard.astro';
 const posts = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
 ---
 <StandardLayout title="the garage">
-  <p>Hi I'm Alan, welcome to my webpage. I'm a Software Developer currently working as a DevOps enginer, but looking to pivot to systems engineering.</p>
+  <p>Hi I'm Alan, welcome to my webpage. I'm a Software Developer currently working as a DevOps engineer, but looking to pivot to systems engineering.</p>
   <hr>
   <h1>Archive</h1>
   <ul>
@@ -18,4 +18,3 @@ const posts = Object.values(import.meta.glob("./posts/*.md", { eager: true }));
     }
   </ul>
 </StandardLayout>
->
